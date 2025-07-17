@@ -52,35 +52,11 @@ Fullstack Developer & Devops
 - UI built with Vue.js and OpenLayers
 - Patch creation for training datasets
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'pie',
-    data:{
-      labels:['Python','JavaScript','HTML/CSS','Java','C++','SQL'],
-      datasets:[{
-        data:[20,20,20,10,10,20],
-        backgroundColor:['#3670A0','#f1e05a','#e34c26','#b07219','#f34b7d','#336791']
-      }]
-    },
-    options:{
-      plugins:{
-        legend:{
-          position:'right',
-          labels:{color:'white',font:{size:14}}
-        },
-        title:{
-          display:true,
-          text:'Language Usage Breakdown',
-          color:'white',
-          font:{size:18}
-        }
-      },
-      layout:{padding:10},
-      backgroundColor:'#0d1117'
-    }
-  }" alt="Language usage pie chart" height="300"/>
-</p>
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22JavaScript%22%2C%22HTML%2FCSS%22%2C%22Java%22%2C%22C%2B%2B%22%2C%22SQL%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B20%2C20%2C20%2C10%2C10%2C20%5D%2C%22backgroundColor%22%3A%5B%22%233670A0%22%2C%22%23f1e05a%22%2C%22%23e34c26%22%2C%22%23b07219%22%2C%22%23f34b7d%22%2C%22%23336791%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A14%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Language%20Usage%20Breakdown%22%2C%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A10%7D%2C%22backgroundColor%22%3A%22%230d1117%22%7D%7D" alt="Language usage pie chart" height="300"/>
+</p>
 
 ---
 

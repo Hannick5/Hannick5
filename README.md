@@ -1,7 +1,7 @@
 <h1 align="center">Hannick Abdul Kuthoos</h1>
 
 <p align="center">
-Fullstack & DevOps Developer
+Fullstack Developer & Devops
 </p>
 
 <p align="center">

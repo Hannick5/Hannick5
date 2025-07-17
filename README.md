@@ -58,7 +58,7 @@ Fullstack Developer & Devops
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hannick5&show_icons=true&theme=github_dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannick5&layout=compact&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannick5&layout=compact&theme=github_dark&hide=jupyter%20notebook" height="170"/>
 </p>
 
 ---

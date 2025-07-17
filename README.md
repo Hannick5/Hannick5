@@ -52,7 +52,39 @@ Fullstack Developer & Devops
 - UI built with Vue.js and OpenLayers
 - Patch creation for training datasets
 
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['Python','JavaScript','HTML/CSS','Java','C++','SQL'],
+      datasets:[{
+        data:[20,20,20,10,10,20],
+        backgroundColor:['#3670A0','#f1e05a','#e34c26','#b07219','#f34b7d','#336791']
+      }]
+    },
+    options:{
+      plugins:{
+        legend:{
+          position:'right',
+          labels:{color:'white',font:{size:14}}
+        },
+        title:{
+          display:true,
+          text:'Language Usage Breakdown',
+          color:'white',
+          font:{size:18}
+        }
+      },
+      layout:{padding:10},
+      backgroundColor:'#0d1117'
+    }
+  }" alt="Language usage pie chart" height="300"/>
+</p>
+
+
 ---
+
+
 
 <p align="center">
 Thanks for visiting my profile.

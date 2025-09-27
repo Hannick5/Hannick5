@@ -29,7 +29,7 @@ Fullstack Developer & Devops
 
 ---
 
-## 🚀 Recent Projects
+## Recent Projects
 
 ### Distributed Map Tile Server Architecture
 - Built microservices using FastAPI and Flask
@@ -51,12 +51,6 @@ Fullstack Developer & Devops
 - GeoTIFF segmentation backend with Flask
 - UI built with Vue.js and OpenLayers
 - Patch creation for training datasets
-
-## 📊 GitHub Statistics
-
-[![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Hannick5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannick5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
----
 
 
 
